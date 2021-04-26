@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RoshniDahal/softwarica-github-t2---backend-api-RoshniDahal.git"
+    "url": "git+https://github.com/bipinkarki/backendImagesnepal.git"
   },
   "author": "Roshni Dahal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RoshniDahal/softwarica-github-t2---backend-api-RoshniDahal/issues"
+    "url": "https://github.com/bipinkarki/backendImagesnepal/issues"
   },
-  "homepage": "https://github.com/RoshniDahal/softwarica-github-t2---backend-api-RoshniDahal#readme"
+  "homepage": "https://github.com/bipinkarki/backendImagesnepal#readme"
 }
